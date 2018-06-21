@@ -11,7 +11,7 @@ The easy-tensorflow-serving is based on [tensorflow-serving](https://github.com/
 **Step 2. Install Easy-Tensorflow-Serving** <br>
 
 ```sh
-git clone git@code.byted.org:huanghailong/easy_tensorflow_serving.git
+git clone git@github.com:Dikea/easy_tensorflow_serving.git
 python setup.py install
 ```
 
