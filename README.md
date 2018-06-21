@@ -30,6 +30,7 @@ python export_model.py
 
 ```sh
 tensorflow_model_server --port=9000 --model_name=test_model --model_base_path=/data00/home/huanghailong/easy_tensorflow_serving/example/tmp/model
+# Note that the model_base_path must be abs path.
 ```
 
 **Step 3. Build client** <br>
